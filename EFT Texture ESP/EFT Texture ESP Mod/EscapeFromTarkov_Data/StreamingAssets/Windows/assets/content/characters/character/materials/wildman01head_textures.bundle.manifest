@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1210184536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1f0932f67eb41bf0f3e5be642e33b7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8884944cce81ba5f9300a62868d39fed
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Items/equipment/facecover_balaclava/Wild_head_0.mat
+- Assets/Content/Items/equipment/facecover_balaclava/wildman01head_d.tga
+- Assets/Content/Items/equipment/facecover_balaclava/wildman01head_gloss.tga
+- Assets/Content/Items/equipment/facecover_balaclava/wildman01head_n.tga
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/shaders
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/cubemaps

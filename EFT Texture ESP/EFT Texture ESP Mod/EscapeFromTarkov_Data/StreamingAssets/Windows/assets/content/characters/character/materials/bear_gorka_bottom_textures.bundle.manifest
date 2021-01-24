@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1727592798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b78ddf38db9bd66956c79807b08ba42a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/WildMan/Materials/Wild_Feet_2_s.tga
+- Assets/Content/Characters/Character/WildMan/Materials/Wild_Feet_2_d.tga
+- Assets/Content/Characters/Character/WildMan/Materials/Wild_Feet_2_n.tga
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2854892010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fea7b0b435058a5c572350d2d42ba3d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8884944cce81ba5f9300a62868d39fed
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Items/equipment/facecover_buffalo/wildman_hats_d.mat
+- Assets/Content/Items/equipment/facecover_buffalo/wildman_hats_n.tga
+- Assets/Content/Items/equipment/facecover_buffalo/wildman_hats_d.tga
+- Assets/Content/Items/equipment/facecover_buffalo/wildman_hats_g.tga
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/shaders
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/cubemaps

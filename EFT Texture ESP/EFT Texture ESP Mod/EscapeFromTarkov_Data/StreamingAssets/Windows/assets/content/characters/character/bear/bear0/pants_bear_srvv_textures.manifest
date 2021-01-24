@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3149462739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6dd0b72ca95986d43aa147ef54034d2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/Bear/bear0/Pants_bear_srvv_n.tga
+- Assets/Content/Characters/Character/Bear/bear0/Pants_bear_srvv_g.tga
+- Assets/Content/Characters/Character/Bear/bear0/Pants_bear_srvv_d.tga
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 199108847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10324e1a8d83ea1bd5e68191bf630165
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/Bear/bear0/Tshirt_bear_turtleneck_d_green.tga
+- Assets/Content/Characters/Character/Bear/bear0/Tshirt_bear_turtleneck_g.tga
+- Assets/Content/Characters/Character/Bear/bear0/Tshirt_bear_turtleneck_n.tga
+Dependencies: []
