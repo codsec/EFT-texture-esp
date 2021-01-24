@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2312160409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c428a1048fbbe8dc01b35d31d68cd375
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/USEC/Usec0/Pants_usec_CryeAC_n.tga
+- Assets/Content/Characters/Character/USEC/Usec0/Pants_usec_CryeAC_g.tga
+- Assets/Content/Characters/Character/USEC/Usec0/Pants_usec_CryeAC_d.tga
+Dependencies: []

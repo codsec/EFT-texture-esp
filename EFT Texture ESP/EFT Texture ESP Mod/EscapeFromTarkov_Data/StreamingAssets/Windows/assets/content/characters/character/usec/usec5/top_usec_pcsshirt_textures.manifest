@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2466078985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7a15a86c9f04bda0953d2cee2d51b19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/USEC/Usec5/Top_usec_PCSShirt_dif.tga
+- Assets/Content/Characters/Character/USEC/Usec5/Top_usec_PCSShirt_gloss.tga
+- Assets/Content/Characters/Character/USEC/Usec5/Top_usec_PCSShirt_nrm.tga
+Dependencies: []

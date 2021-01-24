@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3939074518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ecd06939b25b0a24580c15a0ce1c1f2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4da301c42942f7a1ca3cfecae19fe832
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ceb89710d7a1a3c489d1afb0c3bcd4b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ba48b3434f1d0f45b0ee251c25be6f0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/USEC/Usec5/Top_usec_PCSShirt.prefab
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/shaders
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/cubemaps
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/characters/character/usec/usec5/top_usec_pcsshirt_textures
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/characters/character/usec/usec5/top_usec_pcsshirt.skin_mesh

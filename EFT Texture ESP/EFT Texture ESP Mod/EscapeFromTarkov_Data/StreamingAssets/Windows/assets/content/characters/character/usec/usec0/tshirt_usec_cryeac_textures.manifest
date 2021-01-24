@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3625043932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78c9739282c0068e75ca6d535ad0bb00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/USEC/Usec0/Tshirt_usec_CryeAC_g.tga
+- Assets/Content/Characters/Character/USEC/Usec0/Tshirt_usec_CryeAC_n.tga
+- Assets/Content/Characters/Character/USEC/Usec0/Tshirt_usec_CryeAC_d.tga
+Dependencies: []

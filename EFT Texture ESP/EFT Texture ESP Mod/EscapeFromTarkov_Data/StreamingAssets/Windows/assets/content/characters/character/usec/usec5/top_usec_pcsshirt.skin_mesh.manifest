@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2523144445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddc46a69e7645efccbdc6be48a861674
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 895370486874f94c1ce8bd0f7f1d541e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ba48b3434f1d0f45b0ee251c25be6f0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/USEC/Usec5/Top_usec_PCSShirt.skin.fbx
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/characters/character/skeleton.bundle
