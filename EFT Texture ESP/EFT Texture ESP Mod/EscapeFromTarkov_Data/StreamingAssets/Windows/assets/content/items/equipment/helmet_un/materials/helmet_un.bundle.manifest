@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2034342128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3cae1963cdbdbe39d3d12b87f2f44a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8884944cce81ba5f9300a62868d39fed
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Items/equipment/helmet_un/Materials/helmet_un.mat
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/shaders
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/cubemaps
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/items/equipment/helmet_un/hemlet_un_[gloss].bundle
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/items/equipment/helmet_un/hemlet_un_[albedo].bundle
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/items/equipment/helmet_un/hemlet_un_[normal].bundle
