@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 885799395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d1442a415b13adf06a59aa197eef5d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1358400c652f042e4ec3ccf49a4a622
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53d902b22357f5346a9108f9f35a77ba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Items/barter/video_card/item_video_card.prefab
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/shaders
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/cubemaps
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/commonassets/physics/physicsmaterials.bundle

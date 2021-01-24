@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1207215918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c14db7619ada781dd04447d566630f1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e35fedeaf28543a5ea9a5d67851742a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53d902b22357f5346a9108f9f35a77ba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Items/infosubject/item_info_intelligence/item_info_intelligence.prefab
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/shaders
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/cubemaps
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/commonassets/physics/physicsmaterials.bundle
