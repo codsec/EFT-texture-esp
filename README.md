@@ -7,7 +7,7 @@ Escape From Tarkov ESP texture and Grass/Visor Remover
 - no visor or grass(only included in the release as the file size is heavy)
 
 ## How to use?
-Just throw the files into the game folder, there's no secret
+First download the files in the [Releases](https://github.com/codsec/EFT-texture-esp/releases) and copy the **StreamingAssets** folder inside each separate folder and place it inside the game folder: **"EscapeFromTarkov_Data"**
 
 ## Bypass?
 It does not need a bypass, it is not detected at the moment, but it must become detectable at some future time, be happy!
