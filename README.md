@@ -38,4 +38,4 @@ in your system32/etc/hosts file and tada! now you can host your own consistency 
 ```
 in there as well, and prevent the launcher from sending your log files back to BSG. they have enough info about you. most games use mechanisms within the executable (these are much harder to get to) but from what I can tell, it's bee 2 years or more since BSG used any sort of intnernal check.
 
-[unknowncheats topic](https://www.unknowncheats.me/forum/escape-from-tarkov/437605-eft-esp-item-esp.html)
+• [unknowncheats topic](https://www.unknowncheats.me/forum/escape-from-tarkov/437605-eft-esp-item-esp.html)
