@@ -4,7 +4,7 @@ Escape From Tarkov ESP texture and Grass/Visor Remover
 ## Features:
 - item esp(esp item only shows items over 150K)
 - player esp(texture player, purple means he’s out of helmet/armor and green is boss)
-- no visor or grass(only included in the release as the file size is heavy)
+- no visor or grass(only included in the [Releases](https://github.com/codsec/EFT-texture-esp/releases) as the file size is heavy)
 
 ## How to use?
 First download the files in the [Releases](https://github.com/codsec/EFT-texture-esp/releases) and copy the **StreamingAssets** folder inside each separate folder and place it inside the game folder: **"EscapeFromTarkov_Data"**
