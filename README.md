@@ -4,7 +4,7 @@ Escape From Tarkov ESP texture
 # Features:
 - item esp(esp item only shows items over 150K)
 - player esp(texture player, purple means he’s out of helmet or armor vest)
-- no visor or grass
+- no visor or grass(only included in the release as the file size is heavy)
 
 # How to use?
 Just throw the files into the game folder, there's no secret
