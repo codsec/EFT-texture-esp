@@ -1,6 +1,8 @@
 # EFT-texture-esp
 Escape From Tarkov ESP texture and Grass/Visor Remover
 
+# The method still works but the files have been flagged / patched
+
 ## Features:
 - item esp(esp item only shows items over 150K)
 - player esp(texture player, purple means he’s out of helmet/armor and green is boss)
